@@ -1,0 +1,23 @@
+{
+  "name": "platzi-npm",
+  "version": "1.0.0",
+  "description": "Curso de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nestorrig/PLATZI-npm.git"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Nestor Rios <https://nestorriosgarcia.com/>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nestorrig/PLATZI-npm/issues"
+  },
+  "homepage": "https://github.com/nestorrig/PLATZI-npm#readme"
+}
