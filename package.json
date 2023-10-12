@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/nestorrig/PLATZI-npm/issues"
   },
-  "homepage": "https://github.com/nestorrig/PLATZI-npm#readme"
+  "homepage": "https://github.com/nestorrig/PLATZI-npm#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.51.0"
+  }
 }
